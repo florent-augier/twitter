@@ -1,4 +1,5 @@
 require 'dotenv'# Appelle la gem Dotenv
+require 'twitter'
 
 Dotenv.load
 
